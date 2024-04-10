@@ -8,7 +8,7 @@
     border: 2px solid black;
     width: 100%;
     height: 100vh;
-    background: url("java-script/img-2.jpg") center center;
+    background: url("images/img-2.jpg") center center;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -64,4 +64,8 @@
 div>label{
     font-size: 23px;
    
+}
+
+#Clicking{
+    color: rgb(91, 223, 43);
 }
