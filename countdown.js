@@ -1,4 +1,4 @@
-const endDate = "20 March 2024 18:00 ";
+const endDate = "1 Jan 2024 00:00 AM";
 
 document.getElementById("para-2").innerText = endDate;
 
